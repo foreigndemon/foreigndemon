@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @foreigndemon
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in UX design and frontend development.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me - nikhilxomkar@gmail.com
 
